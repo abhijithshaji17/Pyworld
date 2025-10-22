@@ -1,5 +1,5 @@
 # Check whether given number is positive, negative or zero
-a = int(input("Enter the number:"))
+a = float(input("Enter the number:"))
 if (a>0):
     print (a, "is positive")
 else:
