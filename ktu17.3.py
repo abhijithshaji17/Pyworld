@@ -4,8 +4,8 @@ for count in range(10, 0, -2):
 
 def greet_user():
 	username = input("Enter name: ")
-	greet = ("Hello", username)
+	greet = ("Hello" + username)
 	return greet
-print (greet_user())
-print (greet[::-1])
+print (greet_user()) 
+print (greet_user()[::-1])
 
