@@ -18,7 +18,7 @@ Enter your DOB (DD-MM-YYYY): 15-07-2002
 
 GAUQ26@
 '''
-Name = "Adithya Srikar"
+Name = "Nandini Srikar"
 DOB = "11-09-2003"
 a = Name[0:3].upper()
 b = "03"
