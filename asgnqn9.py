@@ -1,4 +1,6 @@
 #Predicting Output
+
+#Q9.
 s1 = "try"
 s2 = "again"
 n1 = 8
