@@ -13,6 +13,6 @@ def shipping_fee():
           return "$10"
 	else:
 	  return "$20"
-weight = float(input("Enter your weight: "))
+weight = float(input("Enter your parcel's weight in kg: "))
 print ("shipping fee is: ", shipping_fee())
 
