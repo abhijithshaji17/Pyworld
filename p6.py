@@ -7,3 +7,4 @@ def palindrome_check():
 	else:
   	  print (a, "is not palindrome")
 a = input("Enter something: ")
+palindrome_check()	
